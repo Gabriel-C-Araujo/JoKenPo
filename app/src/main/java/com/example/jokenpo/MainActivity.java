@@ -83,6 +83,6 @@ public class MainActivity extends AppCompatActivity {
         else{
             textResultado.setText("Empate");
         }
-
+//test
     }
 }
